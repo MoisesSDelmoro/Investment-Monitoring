@@ -10,10 +10,12 @@ Ele permite ao usuário através de uma interface web, monitorar o valor de suas
 ## Tecnologias Utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
-- [Python](https://www.python.org/)
-- [DJango](https://www.djangoproject.com/)
-- [Selenium](https://www.selenium.dev/)
-- [Behave](https://behave.readthedocs.io/en/stable/)
+
+- <img height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/> [Python](https://www.python.org/) 
+- <img height="30" src="https://cdn.worldvectorlogo.com/logos/django.svg"/> [DJango](https://www.djangoproject.com/)
+- <img height="30" src="https://iconape.com/wp-content/files/yd/371438/svg/371438.svg"/> [Selenium](https://www.selenium.dev/)
+- <img height="30" src="https://behave.readthedocs.io/en/stable/_images/behave_logo1.png"/> [Behave](https://behave.readthedocs.io/en/stable/)
+- <img height="30" src="https://img1.gratispng.com/20180508/rie/kisspng-flask-python-web-framework-web-application-tutoria-5af1dbb6d4ea62.8503418315257998628721.jpg"> [Flask](https://blog.geekhunter.com.br/flask-framework-python/)
 
 ---
 
