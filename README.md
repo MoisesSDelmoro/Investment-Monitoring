@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-O projeto Investment-Monitoring (Monitoramento de investimento) está sendo desenvolvido para a disciplina de C214 (Engenharia de Software), com o objetivo de colocarmos em pratica os conceitos ministrados na disciplina.
+O projeto Investment-Monitoring (Monitoramento de investimento) está sendo desenvolvido para a disciplina de C214 (Engenharia de Software), com o objetivo de colocarmos em prática os conceitos ministrados na disciplina.
 Ele permite ao usuário através de uma interface web, monitorar o valor de suas ações, seu dividendo e realizar uma monitoração das ações do mercado. 
 
 ---
