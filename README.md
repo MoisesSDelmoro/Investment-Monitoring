@@ -53,7 +53,7 @@ $ code .
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/BrunoPivoto/"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/57488202/117151620-a4199280-ad8f-11eb-9c3b-30e5aba6ca2a.png" width="100px;" alt=""/><br /><sub><b>Bruno H. Pivoto</b></sub></a></td>      
+    <td align="center"><a href="https://github.com/BrunoPivoto/"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/57488202/117158995-4a689680-ad96-11eb-9678-d9a3b33faf38.png" width="100px;" alt=""/><br /><sub><b>Bruno H. Pivoto</b></sub></a></td>      
     <td align="center"><a href="https://github.com/MoisesSDelmoro"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/57488202/117151468-7f251f80-ad8f-11eb-9e56-7a242b89ed72.png" width="100px;" alt=""/><br /><sub><b>Moises S. Delmoro</b></sub></a></td>  
   </tr>
 </table>
