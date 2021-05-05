@@ -32,6 +32,9 @@ $ pip install selenium
 # Instalar o Nose
 $ pip install nose
 
+# Instalar o Flask
+$ pip install -U Flask
+
 # Clonar o repositório
 $ git clone https://github.com/MoisesSDelmoro/Investment-Monitoring
 
