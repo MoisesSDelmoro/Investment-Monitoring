@@ -18,7 +18,24 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - <img height="30" src="https://img1.gratispng.com/20180508/rie/kisspng-flask-python-web-framework-web-application-tutoria-5af1dbb6d4ea62.8503418315257998628721.jpg"> [Flask](https://blog.geekhunter.com.br/flask-framework-python/)
 
 ---
+## Como utilizar?
+### Requisito
+- Python (Versão 3.4 ou superior)
 
+### Clone
+Clone este repositório na sua máquina local.
+```sh
+git clone https://github.com/MoisesSDelmoro/Investment-Monitoring.git
+```
+---
+## Colaboradores
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/BrunoPivoto/"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b>Bruno H. Pivoto S. Rangel</b></sub></a></td>      
+    <td align="center"><a href="https://github.com/MoisesSDelmoro"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b>Moises S. Delmoro</b></sub></a></td>  
+  </tr>
+</table>
 ## Colaboradores
 - [Bruno Henrique Pivoto Soares Rangel](https://github.com/BrunoPivoto)
 - [Moisés dos Santos Delmoro](https://github.com/MoisesSDelmoro)
