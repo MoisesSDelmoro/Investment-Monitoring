@@ -19,13 +19,31 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 ## Como utilizar?
-### Requisito
-- Python (Versão 3.4 ou superior)
 
-### Clone
-Clone este repositório na sua máquina local.
-```sh
-git clone https://github.com/MoisesSDelmoro/Investment-Monitoring.git
+- Instalar o [Python](https://www.python.org/downloads/) 3.6 ou superior
+```bash
+
+# Instalar o Behave
+$ pip install behave
+
+# Instalar o Selenium
+$ pip install selenium
+
+# Instalar o Nose
+$ pip install nose
+
+# Instalar o Flask
+$ pip install -U Flask
+
+# Clonar o repositório
+$ git clone https://github.com/MoisesSDelmoro/Investment-Monitoring
+
+#Entrar no diretório
+$ cd Investment-Monitoring
+
+# rodar
+$ code .
+
 ```
 ---
 ## Colaboradores
