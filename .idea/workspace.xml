@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1e5a4e2-a6d9-4996-af42-5fad2c914e6c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InvestmentMonitor/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/InvestmentMonitor/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
