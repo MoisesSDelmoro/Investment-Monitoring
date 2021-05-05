@@ -18,6 +18,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - <img height="30" src="https://img1.gratispng.com/20180508/rie/kisspng-flask-python-web-framework-web-application-tutoria-5af1dbb6d4ea62.8503418315257998628721.jpg"> [Flask](https://blog.geekhunter.com.br/flask-framework-python/)
 
 ---
+## Layout WEB
+
+---
 ## Como utilizar?
 
 - Instalar o [Python](https://www.python.org/downloads/) 3.6 ou superior
@@ -54,3 +57,9 @@ $ code .
     <td align="center"><a href="https://github.com/MoisesSDelmoro"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/57488202/117151468-7f251f80-ad8f-11eb-9e56-7a242b89ed72.png" width="100px;" alt=""/><br /><sub><b>Moises S. Delmoro</b></sub></a></td>  
   </tr>
 </table>
+
+---
+
+##  Licença
+
+Este projeto está sob a licença [MIT](./LICENSE).
