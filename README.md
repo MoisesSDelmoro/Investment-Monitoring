@@ -18,6 +18,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - <img height="30" src="https://img1.gratispng.com/20180508/rie/kisspng-flask-python-web-framework-web-application-tutoria-5af1dbb6d4ea62.8503418315257998628721.jpg"> [Flask](https://blog.geekhunter.com.br/flask-framework-python/)
 
 ---
+## Layout WEB
+
+---
 ## Como utilizar?
 
 - Instalar o [Python](https://www.python.org/downloads/) 3.6 ou superior
