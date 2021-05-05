@@ -33,7 +33,7 @@ $ pip install selenium
 $ pip install nose
 
 # Clonar o repositório
-git clone https://github.com/MoisesSDelmoro/Investment-Monitoring
+$ git clone https://github.com/MoisesSDelmoro/Investment-Monitoring
 
 #Entrar no diretório
 $ cd Investment-Monitoring
