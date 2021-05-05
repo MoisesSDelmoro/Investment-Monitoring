@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1e5a4e2-a6d9-4996-af42-5fad2c914e6c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1s59l8fY37IiGV360G48gkKD1dM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\moise\AppData\Local\Programs\Python\MonitoramentoDeInvestimentos" />
+      <recent name="C:\Users\moise\AppData\Local\Programs\Python\MonitoramentoDeInvestimentos\features" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="web" type="PythonConfigurationType" factoryName="Python" editBeforeRun="true">
+      <module name="MonitoramentoDeInvestimentos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1e5a4e2-a6d9-4996-af42-5fad2c914e6c" name="Default Changelist" comment="" />
+      <created>1620151731793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620151731793</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.feature" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="39" width="1092" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620155785180">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="39" width="1092" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1620155785180" />
+    <state x="429" y="187" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620156098567">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="429" y="187" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1620156098567" />
+    <state x="463" y="107" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1620155736853">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="107" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.768@0.0.1366.768" timestamp="1620155736853" />
+    <state x="413" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1620156226715">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1620156226715" />
+    <state x="452" y="214" key="#com.intellij.tools.ToolEditorDialog" timestamp="1620155194311">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="452" y="214" key="#com.intellij.tools.ToolEditorDialog/0.0.1366.768@0.0.1366.768" timestamp="1620155194311" />
+    <state x="402" y="10" key="#web" timestamp="1620156431141">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="402" y="10" key="#web/0.0.1366.768@0.0.1366.768" timestamp="1620156431141" />
+    <state x="417" y="164" key="EnvironmentVariablesDialog" timestamp="1620155753160">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="417" y="164" key="EnvironmentVariablesDialog/0.0.1366.768@0.0.1366.768" timestamp="1620155753160" />
+    <state x="463" y="157" key="FileChooserDialogImpl" timestamp="1620155270772">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="157" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1620155270772" />
+    <state width="1345" height="192" key="GridCell.Tab.0.bottom" timestamp="1620156505650">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1620156505650" />
+    <state width="1345" height="192" key="GridCell.Tab.0.center" timestamp="1620156505650">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1620156505650" />
+    <state width="1345" height="192" key="GridCell.Tab.0.left" timestamp="1620156505650">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1620156505650" />
+    <state width="1345" height="192" key="GridCell.Tab.0.right" timestamp="1620156505650">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1620156505650" />
+    <state x="578" y="119" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1620155195447">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="578" y="119" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.0.1366.768@0.0.1366.768" timestamp="1620155195447" />
+  </component>
+</project>
