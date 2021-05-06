@@ -23,7 +23,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ---
 ## Como utilizar?
 
-- Instalar o [Python](https://www.python.org/downloads/) 3.6 ou superior
+- Instalar o [Python](https://www.python.org/downloads/) 3.6 ou superior.
 ```bash
 
 # Instalar o Behave
