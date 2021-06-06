@@ -2,7 +2,6 @@ language: Python
 
 branches:
   only:
-    - master
     - main
 
 python:
