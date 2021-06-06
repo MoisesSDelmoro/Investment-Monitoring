@@ -6,3 +6,6 @@ branches:
 
 python:
   - "3.9"
+
+script:
+  - pytest
