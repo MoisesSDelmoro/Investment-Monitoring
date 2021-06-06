@@ -2,8 +2,6 @@ language: python
 
 python:
   - "3.9"
-  - "3.9-dev"  # 3.9 development branch
-  - "nightly"  # nightly build
 
 env:
   - DJANGO_VERSION=2.1.13
@@ -16,6 +14,6 @@ install:
   - pip install -r requirements.txt
   - pip install -q Django==$DJANGO_VERSION
   - python setup.py -q install
-  
-script:
-  - pytest
+
+#script:
+#  - pytest
