@@ -6,5 +6,4 @@ branches:
     - main
 
 python:
-  - "2.7"
   - "3.9"
