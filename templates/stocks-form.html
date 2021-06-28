@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block content %}
+    <form method="POST">
+        {% csrf_token %}
+        {% load crispy_forms_filters %}
+        {{ form|crispy }}
+        <button type="submit">Salvar</button>
+    </form>
+
+    {% if stock %}
+    <a href="{% url 'pages:delete_stock' stock.id %}">Deletar</a>
+    {% endif %}
+{% endblock %}

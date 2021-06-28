@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% block content %}
+{% for stock in stocks %}
+<ul>
+    <a href="{% url 'pages:edit_stock' stock.id %}">
+        <liv> {{ stock.Codigo }} </liv>
+    </a>
+</ul>
+<a href="{% url 'pages:create_stock' %}">Novo Ativo</a>
+{% endfor %}
+{% endblock %}

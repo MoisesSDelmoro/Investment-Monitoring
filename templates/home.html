@@ -1,7 +1,17 @@
 {% extends 'base.html' %}
 
-{% block title %}Loja Python{% endblock %}
+{% block title %}Monitor de Investimentos{% endblock %}
 
 {% block content %}
-    Olá!
+<p>
+    <a href="{% url 'pages:create_stock' %}">Novo Ativo</a>
+</p>
+<p>
+    <a href="{% url 'pages:list_stocks' %}">Lista de Ativos</a>
+</p>
+
+<div class="scrollmenu" style="background: grey">
+  <a href="{% url 'pages:create_stock' %}">Novo Ativo</a>
+  <a href="{% url 'pages:list_stocks' %}">Lista de Ativos</a>
+</div>
 {% endblock %}

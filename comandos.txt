@@ -1,0 +1,8 @@
+cd pro caminho
+py -m venv venv
+.\venv\Scripts\activate
+pip install django
+pip install behave_django
+pip install django-allauth
+pip install django-crispy-forms
+py .\manage.py runserver

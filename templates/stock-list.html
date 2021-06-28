@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block title %}Lista de Ativos Cadastrados{% endblock %}
+
+{% block content %}
+<ul>
+    {% for stock in stocks %}
+        <a href="{% url 'pages:edit_stock' stock.id %}">
+            <li> Código: {{ stock.Codigo }}</li>     
+            <a>Preço: R$ {{ stock.Preço }}</a>
+            <p>Quantidade: {{ stock.Quantidade }}</p>
+        </a>
+    {% endfor %}
+</ul>
+{% endblock %}
