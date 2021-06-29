@@ -36,6 +36,7 @@ eggs/
 parts/
 sdist/
 var/
+node_modules/
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
@@ -160,6 +161,9 @@ Thumbs.db
 .prof
 
 
+cypress.json
+package.json
+package-lock.json
 ### Python ###
 # Byte-compiled / optimized / DLL files
 

@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1e5a4e2-a6d9-4996-af42-5fad2c914e6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pages/teste.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +99,7 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.feature" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -112,10 +115,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="1780" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624836365330">
+    <state x="1780" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624928283975">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state x="1780" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1624836365330" />
+    <state x="1780" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1624928283975" />
     <state x="2045" y="154" key="#web" timestamp="1624836071127">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
