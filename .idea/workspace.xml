@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1e5a4e2-a6d9-4996-af42-5fad2c914e6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/teste.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/teste.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/teste.spec.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,6 +122,10 @@
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="2045" y="154" key="#web/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1624836071127" />
+    <state x="1855" y="134" key="CommitChangelistDialog2" timestamp="1625006973414">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1855" y="134" key="CommitChangelistDialog2/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1625006973414" />
     <state x="2017" y="195" key="FileChooserDialogImpl" timestamp="1624920314611">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
