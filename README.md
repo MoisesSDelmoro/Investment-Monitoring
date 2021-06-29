@@ -16,6 +16,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
    <a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/django.svg"/>
    <a href="https://www.selenium.dev/" target="_blank"><img height="50" src="https://iconape.com/wp-content/files/yd/371438/svg/371438.svg"/>
    <a href="https://behave.readthedocs.io/en/stable/" target="_blank"><img height="50" src="https://behave.readthedocs.io/en/stable/_images/behave_logo1.png"/>
+   <a href="https://www.cypress.io/" target="_blank"><img height="50" src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4"/> 
+   <a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/> 
    <a href="https://travis-ci.com/" target="_blank"/> <img height="50" src="https://travis-ci.org/images/logos/TravisCI-Mascot-1.png"/>
 </p>
      
