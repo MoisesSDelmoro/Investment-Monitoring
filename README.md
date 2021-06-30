@@ -29,14 +29,27 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
      
 ## Como utilizar?
      
-- Ter instalado e configurado o [Python](https://www.python.org/downloads/) e o [Django](https://www.djangoproject.com/).
+- Ter instalado e configurado o [Python](https://www.python.org/downloads/), o [Django](https://www.djangoproject.com/) e o [NodeJS](https://nodejs.org/en/).
      
 ```bash
-# Instalar todas a bibliotecas
-$ pip install -r requirements.txt
-
 # Clonar o repositório
 $ git clone https://github.com/MoisesSDelmoro/Investment-Monitoring
+
+# Entrar no diretório
+$ cd/Investment-Monitoring
+
+# Instalar todas a bibliotecas
+$ pip install -r requirements.txt
+      
+# Entrar no ambiente virtual - Windows / Linux e OS X
+$ venv\Scripts\activate
+$ source myvenv/bin/activate
+
+# Para executar o projeto
+$ python manage.py runserver
+
+# Para executar os testes
+$ npx cypress open
 
 ```
 ---
