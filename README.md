@@ -24,7 +24,12 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ---
      
 ## Layout WEB
-
+<p>
+   <img height="300" src="https://user-images.githubusercontent.com/57488202/124041813-fc5ec080-d9dd-11eb-91b8-3d524d175ae6.png"/>
+   <img height="300" src="https://user-images.githubusercontent.com/57488202/124041970-48aa0080-d9de-11eb-872d-dc6f67000b2c.png"/>
+  
+</p>
+      
 ---
      
 ## Como utilizar?
